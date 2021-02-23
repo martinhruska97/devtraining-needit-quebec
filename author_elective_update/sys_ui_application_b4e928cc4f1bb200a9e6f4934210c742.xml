@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>NeedItTask</name>
+        <order/>
+        <roles>x_58872_needit.needittask_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-06 22:29:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b4e928cc4f1bb200a9e6f4934210c742</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedItTask</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_application_b4e928cc4f1bb200a9e6f4934210c742</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-06 22:29:46</sys_updated_on>
+    </sys_ui_application>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a3d11ce0dbb3f3802f68c59705961943</instance_id>
+        <instance_name>dev93256</instance_name>
+        <name>sys_ui_application_b4e928cc4f1bb200a9e6f4934210c742</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>NeedItTask</name>
+        <order/>
+        <roles>x_58872_needit.needittask_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-06 22:29:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b4e928cc4f1bb200a9e6f4934210c742</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedItTask</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_application_b4e928cc4f1bb200a9e6f4934210c742</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-06 22:29:46</sys_updated_on>
+    </sys_ui_application>
+</record_update>]]></payload>
+        <payload_hash>828816696</payload_hash>
+        <record_name>NeedItTask</record_name>
+        <reverted_from/>
+        <source>ce05e8012fa66010cdfbf64ef699b6c7</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_mhruska</sys_created_by>
+        <sys_created_on>2021-02-23 15:13:41</sys_created_on>
+        <sys_id>fd1520412fa66010cdfbf64ef699b606</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177cf74004b0000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_mhruska</sys_updated_by>
+        <sys_updated_on>2021-02-23 15:13:41</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>bd15204102a66010c69255951c2fe206</update_guid>
+        <update_guid_history>bd15204102a66010c69255951c2fe206:828816696</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_mhruska</sys_created_by>
+        <sys_created_on>2021-02-23 18:24:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>07493e7683064cf8806a9456c41243c1</sys_id>
+        <sys_metadata>b4e928cc4f1bb200a9e6f4934210c742</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedItTask</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_application_b4e928cc4f1bb200a9e6f4934210c742</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_b4e928cc4f1bb200a9e6f4934210c742">fd1520412fa66010cdfbf64ef699b606</sys_update_version>
+        <sys_updated_by>admin_gv_mhruska</sys_updated_by>
+        <sys_updated_on>2021-02-23 18:24:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
